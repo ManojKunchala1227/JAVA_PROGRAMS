@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="P1.EmployeeData"/>
+    <fullyQualifiedTypeName name="P1.EmployeeSalary"/>
+    <fullyQualifiedTypeName name="p1.Addition"/>
+    <fullyQualifiedTypeName name="p1.Subtraction"/>
+    <fullyQualifiedTypeName name="p1.Multiplecation"/>
+    <fullyQualifiedTypeName name="p1.Division"/>
+    <fullyQualifiedTypeName name="p1.ModuloDivision"/>
+    <fullyQualifiedTypeName name="p1.GreaterValue"/>
+    <fullyQualifiedTypeName name="p1.SmallerValue"/>
+    <fullyQualifiedTypeName name="p1.Employee"/>
+    <fullyQualifiedTypeName name="p1.Address"/>
+    <fullyQualifiedTypeName name="p1.Contact"/>
+    <fullyQualifiedTypeName name="p1.DisplayStudent"/>
+    <fullyQualifiedTypeName name="p1.Student"/>
+    <fullyQualifiedTypeName name="p1.ReadStudent"/>
+</qualifiedTypeNameHistroy>
